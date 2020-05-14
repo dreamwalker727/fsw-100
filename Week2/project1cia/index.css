@@ -1,0 +1,23 @@
+h1 {
+    color: darkgreen;
+}
+h1, h2 {
+    font-family: Georgia;
+    text-align: center;
+}
+p {
+    line-height: 25px;
+}
+.cia {
+    text-decoration: none;
+}
+.cia:hover {
+    text-decoration: underline;
+}
+p4 {
+   text-transform: uppercase; 
+}
+.img {
+    float: left;
+    padding: 20px 20px 20px 20px;
+}
